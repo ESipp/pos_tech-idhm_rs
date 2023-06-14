@@ -1,0 +1,497 @@
+UF,municipio,idhm,idhm_educacao,idhm_longevidade,idhm_renda,classe
+Rio Grande do Sul,ACEGUÁ,0.687,0.541,0.852,0.703,Médio Desenvolvimento Humano
+Rio Grande do Sul,ÁGUA SANTA,0.75,0.59,0.85,0.84,Médio Desenvolvimento Humano
+Rio Grande do Sul,AGUDO,0.694,0.524,0.847,0.752,Médio Desenvolvimento Humano
+Rio Grande do Sul,AJURICABA,0.753,0.658,0.85,0.763,Médio Desenvolvimento Humano
+Rio Grande do Sul,ALECRIM,0.672,0.522,0.852,0.683,Médio Desenvolvimento Humano
+Rio Grande do Sul,ALEGRETE,0.74,0.664,0.849,0.72,Médio Desenvolvimento Humano
+Rio Grande do Sul,ALEGRIA,0.695,0.572,0.818,0.717,Médio Desenvolvimento Humano
+Rio Grande do Sul,ALMIRANTE TAMANDARÉ DO SUL,0.74,0.669,0.828,0.732,Médio Desenvolvimento Humano
+Rio Grande do Sul,ALPESTRE,0.671,0.543,0.795,0.7,Médio Desenvolvimento Humano
+Rio Grande do Sul,ALTO ALEGRE,0.747,0.642,0.859,0.756,Médio Desenvolvimento Humano
+Rio Grande do Sul,ALTO FELIZ,0.734,0.603,0.886,0.74,Médio Desenvolvimento Humano
+Rio Grande do Sul,ALVORADA,0.699,0.564,0.874,0.694,Médio Desenvolvimento Humano
+Rio Grande do Sul,AMARAL FERRADOR,0.624,0.457,0.802,0.664,Médio Desenvolvimento Humano
+Rio Grande do Sul,AMETISTA DO SUL,0.682,0.562,0.809,0.697,Médio Desenvolvimento Humano
+Rio Grande do Sul,ANDRÉ DA ROCHA,0.72,0.605,0.837,0.738,Médio Desenvolvimento Humano
+Rio Grande do Sul,ANTA GORDA,0.74,0.63,0.868,0.742,Médio Desenvolvimento Humano
+Rio Grande do Sul,ANTÔNIO PRADO,0.758,0.671,0.835,0.777,Médio Desenvolvimento Humano
+Rio Grande do Sul,ARAMBARÉ,0.691,0.57,0.833,0.694,Médio Desenvolvimento Humano
+Rio Grande do Sul,ARARICÁ,0.679,0.547,0.824,0.696,Médio Desenvolvimento Humano
+Rio Grande do Sul,ARATIBA,0.772,0.67,0.856,0.801,Médio Desenvolvimento Humano
+Rio Grande do Sul,ARROIO DO MEIO,0.769,0.706,0.86,0.75,Médio Desenvolvimento Humano
+Rio Grande do Sul,ARROIO DO SAL,0.74,0.649,0.844,0.74,Médio Desenvolvimento Humano
+Rio Grande do Sul,ARROIO DO PADRE,0.669,0.461,0.86,0.756,Médio Desenvolvimento Humano
+Rio Grande do Sul,ARROIO DOS RATOS,0.698,0.583,0.833,0.7,Médio Desenvolvimento Humano
+Rio Grande do Sul,ARROIO DO TIGRE,0.707,0.589,0.848,0.708,Médio Desenvolvimento Humano
+Rio Grande do Sul,ARROIO GRANDE,0.657,0.522,0.807,0.673,Médio Desenvolvimento Humano
+Rio Grande do Sul,ARVOREZINHA,0.694,0.575,0.817,0.713,Médio Desenvolvimento Humano
+Rio Grande do Sul,AUGUSTO PESTANA,0.743,0.621,0.847,0.779,Médio Desenvolvimento Humano
+Rio Grande do Sul,ÁUREA,0.707,0.588,0.841,0.715,Médio Desenvolvimento Humano
+Rio Grande do Sul,BAGÉ,0.74,0.647,0.848,0.739,Médio Desenvolvimento Humano
+Rio Grande do Sul,BALNEÁRIO PINHAL,0.696,0.567,0.836,0.71,Médio Desenvolvimento Humano
+Rio Grande do Sul,BARÃO,0.748,0.652,0.836,0.767,Médio Desenvolvimento Humano
+Rio Grande do Sul,BARÃO DE COTEGIPE,0.719,0.593,0.842,0.745,Médio Desenvolvimento Humano
+Rio Grande do Sul,BARÃO DO TRIUNFO,0.61,0.428,0.821,0.645,Médio Desenvolvimento Humano
+Rio Grande do Sul,BARRACÃO,0.71,0.568,0.885,0.711,Médio Desenvolvimento Humano
+Rio Grande do Sul,BARRA DO GUARITA,0.734,0.672,0.845,0.696,Médio Desenvolvimento Humano
+Rio Grande do Sul,BARRA DO QUARAÍ,0.662,0.548,0.802,0.659,Médio Desenvolvimento Humano
+Rio Grande do Sul,BARRA DO RIBEIRO,0.67,0.529,0.822,0.691,Médio Desenvolvimento Humano
+Rio Grande do Sul,BARRA DO RIO AZUL,0.723,0.638,0.842,0.703,Médio Desenvolvimento Humano
+Rio Grande do Sul,BARRA FUNDA,0.763,0.71,0.856,0.731,Médio Desenvolvimento Humano
+Rio Grande do Sul,BARROS CASSAL,0.65,0.5,0.795,0.69,Médio Desenvolvimento Humano
+Rio Grande do Sul,BENJAMIN CONSTANT DO SUL,0.619,0.492,0.801,0.601,Médio Desenvolvimento Humano
+Rio Grande do Sul,BENTO GONÇALVES,0.778,0.695,0.842,0.805,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOA VISTA DAS MISSÕES,0.676,0.561,0.825,0.666,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOA VISTA DO BURICÁ,0.762,0.697,0.834,0.761,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOA VISTA DO CADEADO,0.703,0.59,0.851,0.692,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOA VISTA DO INCRA,0.731,0.641,0.867,0.703,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOA VISTA DO SUL,0.728,0.587,0.852,0.77,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOM JESUS,0.666,0.51,0.832,0.697,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOM PRINCÍPIO,0.746,0.661,0.836,0.751,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOM PROGRESSO,0.723,0.643,0.84,0.7,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOM RETIRO DO SUL,0.739,0.649,0.857,0.725,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOQUEIRÃO DO LEÃO,0.7,0.562,0.843,0.725,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOSSOROCA,0.692,0.608,0.821,0.665,Médio Desenvolvimento Humano
+Rio Grande do Sul,BOZANO,0.745,0.628,0.853,0.773,Médio Desenvolvimento Humano
+Rio Grande do Sul,BRAGA,0.674,0.563,0.83,0.656,Médio Desenvolvimento Humano
+Rio Grande do Sul,BROCHIER,0.699,0.554,0.851,0.723,Médio Desenvolvimento Humano
+Rio Grande do Sul,BUTIÁ,0.689,0.558,0.848,0.691,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAÇAPAVA DO SUL,0.704,0.585,0.855,0.699,Médio Desenvolvimento Humano
+Rio Grande do Sul,CACEQUI,0.7,0.626,0.807,0.68,Médio Desenvolvimento Humano
+Rio Grande do Sul,CACHOEIRA DO SUL,0.742,0.648,0.854,0.739,Médio Desenvolvimento Humano
+Rio Grande do Sul,CACHOEIRINHA,0.757,0.675,0.857,0.749,Médio Desenvolvimento Humano
+Rio Grande do Sul,CACIQUE DOBLE,0.662,0.528,0.81,0.677,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAIBATÉ,0.719,0.611,0.857,0.709,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAIÇARA,0.699,0.58,0.817,0.721,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAMAQUÃ,0.697,0.578,0.819,0.715,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAMARGO,0.736,0.612,0.854,0.762,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAMBARÁ DO SUL,0.697,0.574,0.838,0.705,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAMPESTRE DA SERRA,0.706,0.557,0.886,0.713,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAMPINA DAS MISSÕES,0.738,0.677,0.849,0.698,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAMPINAS DO SUL,0.76,0.691,0.842,0.753,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAMPO BOM,0.745,0.643,0.852,0.755,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAMPO NOVO,0.703,0.593,0.866,0.677,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAMPOS BORGES,0.708,0.616,0.819,0.704,Médio Desenvolvimento Humano
+Rio Grande do Sul,CANDELÁRIA,0.674,0.521,0.842,0.699,Médio Desenvolvimento Humano
+Rio Grande do Sul,CÂNDIDO GODÓI,0.728,0.627,0.853,0.72,Médio Desenvolvimento Humano
+Rio Grande do Sul,CANDIOTA,0.698,0.562,0.86,0.704,Médio Desenvolvimento Humano
+Rio Grande do Sul,CANELA,0.748,0.667,0.849,0.738,Médio Desenvolvimento Humano
+Rio Grande do Sul,CANGUÇU,0.65,0.491,0.819,0.683,Médio Desenvolvimento Humano
+Rio Grande do Sul,CANOAS,0.75,0.636,0.864,0.768,Médio Desenvolvimento Humano
+Rio Grande do Sul,CANUDOS DO VALE,0.713,0.574,0.84,0.751,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAPÃO BONITO DO SUL,0.637,0.507,0.779,0.654,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAPÃO DA CANOA,0.743,0.637,0.852,0.756,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAPÃO DO CIPÓ,0.672,0.552,0.86,0.639,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAPÃO DO LEÃO,0.637,0.48,0.814,0.662,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAPIVARI DO SUL,0.766,0.668,0.836,0.805,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAPELA DE SANTANA,0.661,0.525,0.816,0.675,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAPITÃO,0.746,0.661,0.842,0.747,Médio Desenvolvimento Humano
+Rio Grande do Sul,CARAZINHO,0.766,0.707,0.84,0.756,Médio Desenvolvimento Humano
+Rio Grande do Sul,CARAÁ,0.652,0.505,0.83,0.661,Médio Desenvolvimento Humano
+Rio Grande do Sul,CARLOS BARBOSA,0.796,0.724,0.835,0.835,Médio Desenvolvimento Humano
+Rio Grande do Sul,CARLOS GOMES,0.739,0.622,0.886,0.732,Médio Desenvolvimento Humano
+Rio Grande do Sul,CASCA,0.785,0.733,0.847,0.778,Médio Desenvolvimento Humano
+Rio Grande do Sul,CASEIROS,0.703,0.6,0.833,0.696,Médio Desenvolvimento Humano
+Rio Grande do Sul,CATUÍPE,0.739,0.627,0.842,0.763,Médio Desenvolvimento Humano
+Rio Grande do Sul,CAXIAS DO SUL,0.782,0.686,0.86,0.812,Médio Desenvolvimento Humano
+Rio Grande do Sul,CENTENÁRIO,0.701,0.569,0.856,0.707,Médio Desenvolvimento Humano
+Rio Grande do Sul,CERRITO,0.649,0.504,0.824,0.657,Médio Desenvolvimento Humano
+Rio Grande do Sul,CERRO BRANCO,0.661,0.527,0.816,0.671,Médio Desenvolvimento Humano
+Rio Grande do Sul,CERRO GRANDE,0.674,0.563,0.803,0.676,Médio Desenvolvimento Humano
+Rio Grande do Sul,CERRO GRANDE DO SUL,0.66,0.499,0.855,0.673,Médio Desenvolvimento Humano
+Rio Grande do Sul,CERRO LARGO,0.764,0.698,0.849,0.752,Médio Desenvolvimento Humano
+Rio Grande do Sul,CHAPADA,0.757,0.679,0.849,0.752,Médio Desenvolvimento Humano
+Rio Grande do Sul,CHARQUEADAS,0.747,0.659,0.87,0.726,Médio Desenvolvimento Humano
+Rio Grande do Sul,CHARRUA,0.62,0.385,0.885,0.699,Médio Desenvolvimento Humano
+Rio Grande do Sul,CHIAPETTA,0.732,0.657,0.85,0.702,Médio Desenvolvimento Humano
+Rio Grande do Sul,CHUÍ,0.706,0.658,0.792,0.676,Médio Desenvolvimento Humano
+Rio Grande do Sul,CHUVISCA,0.616,0.437,0.818,0.655,Médio Desenvolvimento Humano
+Rio Grande do Sul,CIDREIRA,0.729,0.625,0.848,0.73,Médio Desenvolvimento Humano
+Rio Grande do Sul,CIRÍACO,0.719,0.6,0.855,0.724,Médio Desenvolvimento Humano
+Rio Grande do Sul,COLINAS,0.765,0.678,0.84,0.786,Médio Desenvolvimento Humano
+Rio Grande do Sul,COLORADO,0.758,0.674,0.835,0.775,Médio Desenvolvimento Humano
+Rio Grande do Sul,CONDOR,0.747,0.666,0.852,0.735,Médio Desenvolvimento Humano
+Rio Grande do Sul,CONSTANTINA,0.754,0.668,0.885,0.726,Médio Desenvolvimento Humano
+Rio Grande do Sul,COQUEIRO BAIXO,0.692,0.532,0.886,0.703,Médio Desenvolvimento Humano
+Rio Grande do Sul,COQUEIROS DO SUL,0.746,0.614,0.84,0.806,Médio Desenvolvimento Humano
+Rio Grande do Sul,CORONEL BARROS,0.744,0.61,0.852,0.793,Médio Desenvolvimento Humano
+Rio Grande do Sul,CORONEL BICACO,0.665,0.55,0.803,0.667,Médio Desenvolvimento Humano
+Rio Grande do Sul,CORONEL PILAR,0.727,0.6,0.835,0.766,Médio Desenvolvimento Humano
+Rio Grande do Sul,COTIPORÃ,0.741,0.636,0.835,0.767,Médio Desenvolvimento Humano
+Rio Grande do Sul,COXILHA,0.706,0.586,0.866,0.693,Médio Desenvolvimento Humano
+Rio Grande do Sul,CRISSIUMAL,0.712,0.616,0.835,0.702,Médio Desenvolvimento Humano
+Rio Grande do Sul,CRISTAL,0.644,0.471,0.826,0.687,Médio Desenvolvimento Humano
+Rio Grande do Sul,CRISTAL DO SUL,0.66,0.542,0.826,0.641,Médio Desenvolvimento Humano
+Rio Grande do Sul,CRUZ ALTA,0.75,0.653,0.858,0.754,Médio Desenvolvimento Humano
+Rio Grande do Sul,CRUZALTENSE,0.719,0.605,0.849,0.724,Médio Desenvolvimento Humano
+Rio Grande do Sul,CRUZEIRO DO SUL,0.723,0.607,0.833,0.746,Médio Desenvolvimento Humano
+Rio Grande do Sul,DAVID CANABARRO,0.762,0.688,0.87,0.74,Médio Desenvolvimento Humano
+Rio Grande do Sul,DERRUBADAS,0.707,0.628,0.846,0.664,Médio Desenvolvimento Humano
+Rio Grande do Sul,DEZESSEIS DE NOVEMBRO,0.654,0.553,0.809,0.625,Médio Desenvolvimento Humano
+Rio Grande do Sul,DILERMANDO DE AGUIAR,0.648,0.463,0.864,0.681,Médio Desenvolvimento Humano
+Rio Grande do Sul,DOIS IRMÃOS,0.743,0.633,0.848,0.763,Médio Desenvolvimento Humano
+Rio Grande do Sul,DOIS IRMÃOS DAS MISSÕES,0.67,0.585,0.797,0.646,Médio Desenvolvimento Humano
+Rio Grande do Sul,DOIS LAJEADOS,0.757,0.67,0.837,0.775,Médio Desenvolvimento Humano
+Rio Grande do Sul,DOM FELICIANO,0.587,0.39,0.818,0.633,Médio Desenvolvimento Humano
+Rio Grande do Sul,DOM PEDRO DE ALCÂNTARA,0.691,0.577,0.82,0.697,Médio Desenvolvimento Humano
+Rio Grande do Sul,DOM PEDRITO,0.708,0.585,0.848,0.715,Médio Desenvolvimento Humano
+Rio Grande do Sul,DONA FRANCISCA,0.697,0.568,0.831,0.718,Médio Desenvolvimento Humano
+Rio Grande do Sul,DOUTOR MAURÍCIO CARDOSO,0.706,0.593,0.84,0.707,Médio Desenvolvimento Humano
+Rio Grande do Sul,DOUTOR RICARDO,0.724,0.593,0.855,0.749,Médio Desenvolvimento Humano
+Rio Grande do Sul,ELDORADO DO SUL,0.717,0.609,0.844,0.717,Médio Desenvolvimento Humano
+Rio Grande do Sul,ENCANTADO,0.767,0.687,0.858,0.764,Médio Desenvolvimento Humano
+Rio Grande do Sul,ENCRUZILHADA DO SUL,0.657,0.478,0.875,0.677,Médio Desenvolvimento Humano
+Rio Grande do Sul,ENGENHO VELHO,0.717,0.611,0.821,0.735,Médio Desenvolvimento Humano
+Rio Grande do Sul,ENTRE-IJUÍS,0.68,0.548,0.829,0.692,Médio Desenvolvimento Humano
+Rio Grande do Sul,ENTRE RIOS DO SUL,0.703,0.572,0.857,0.709,Médio Desenvolvimento Humano
+Rio Grande do Sul,EREBANGO,0.712,0.626,0.837,0.689,Médio Desenvolvimento Humano
+Rio Grande do Sul,ERECHIM,0.776,0.716,0.833,0.782,Médio Desenvolvimento Humano
+Rio Grande do Sul,ERNESTINA,0.716,0.612,0.854,0.703,Médio Desenvolvimento Humano
+Rio Grande do Sul,HERVAL,0.687,0.527,0.843,0.73,Médio Desenvolvimento Humano
+Rio Grande do Sul,ERVAL GRANDE,0.681,0.501,0.885,0.713,Médio Desenvolvimento Humano
+Rio Grande do Sul,ERVAL SECO,0.685,0.589,0.821,0.666,Médio Desenvolvimento Humano
+Rio Grande do Sul,ESMERALDA,0.68,0.569,0.827,0.669,Médio Desenvolvimento Humano
+Rio Grande do Sul,ESPERANÇA DO SUL,0.661,0.55,0.788,0.665,Médio Desenvolvimento Humano
+Rio Grande do Sul,ESPUMOSO,0.765,0.677,0.884,0.747,Médio Desenvolvimento Humano
+Rio Grande do Sul,ESTAÇÃO,0.753,0.674,0.843,0.752,Médio Desenvolvimento Humano
+Rio Grande do Sul,ESTÂNCIA VELHA,0.757,0.652,0.887,0.749,Médio Desenvolvimento Humano
+Rio Grande do Sul,ESTEIO,0.754,0.662,0.843,0.769,Médio Desenvolvimento Humano
+Rio Grande do Sul,ESTRELA,0.767,0.684,0.85,0.776,Médio Desenvolvimento Humano
+Rio Grande do Sul,ESTRELA VELHA,0.679,0.56,0.792,0.707,Médio Desenvolvimento Humano
+Rio Grande do Sul,EUGÊNIO DE CASTRO,0.712,0.584,0.885,0.697,Médio Desenvolvimento Humano
+Rio Grande do Sul,FAGUNDES VARELA,0.763,0.674,0.852,0.773,Médio Desenvolvimento Humano
+Rio Grande do Sul,FARROUPILHA,0.777,0.696,0.861,0.783,Médio Desenvolvimento Humano
+Rio Grande do Sul,FAXINAL DO SOTURNO,0.72,0.597,0.854,0.732,Médio Desenvolvimento Humano
+Rio Grande do Sul,FAXINALZINHO,0.666,0.571,0.801,0.646,Médio Desenvolvimento Humano
+Rio Grande do Sul,FAZENDA VILANOVA,0.698,0.557,0.841,0.726,Médio Desenvolvimento Humano
+Rio Grande do Sul,FELIZ,0.75,0.658,0.847,0.758,Médio Desenvolvimento Humano
+Rio Grande do Sul,FLORES DA CUNHA,0.754,0.642,0.849,0.786,Médio Desenvolvimento Humano
+Rio Grande do Sul,FLORIANO PEIXOTO,0.663,0.486,0.854,0.701,Médio Desenvolvimento Humano
+Rio Grande do Sul,FONTOURA XAVIER,0.661,0.532,0.812,0.668,Médio Desenvolvimento Humano
+Rio Grande do Sul,FORMIGUEIRO,0.682,0.549,0.838,0.69,Médio Desenvolvimento Humano
+Rio Grande do Sul,FORQUETINHA,0.683,0.484,0.886,0.743,Médio Desenvolvimento Humano
+Rio Grande do Sul,FORTALEZA DOS VALOS,0.756,0.663,0.837,0.779,Médio Desenvolvimento Humano
+Rio Grande do Sul,FREDERICO WESTPHALEN,0.76,0.688,0.846,0.754,Médio Desenvolvimento Humano
+Rio Grande do Sul,GARIBALDI,0.786,0.688,0.856,0.825,Médio Desenvolvimento Humano
+Rio Grande do Sul,GARRUCHOS,0.671,0.553,0.833,0.657,Médio Desenvolvimento Humano
+Rio Grande do Sul,GAURAMA,0.738,0.643,0.852,0.733,Médio Desenvolvimento Humano
+Rio Grande do Sul,GENERAL CÂMARA,0.686,0.552,0.832,0.704,Médio Desenvolvimento Humano
+Rio Grande do Sul,GENTIL,0.733,0.643,0.863,0.71,Médio Desenvolvimento Humano
+Rio Grande do Sul,GETÚLIO VARGAS,0.746,0.658,0.843,0.747,Médio Desenvolvimento Humano
+Rio Grande do Sul,GIRUÁ,0.721,0.629,0.842,0.707,Médio Desenvolvimento Humano
+Rio Grande do Sul,GLORINHA,0.714,0.593,0.859,0.716,Médio Desenvolvimento Humano
+Rio Grande do Sul,GRAMADO,0.764,0.662,0.861,0.783,Médio Desenvolvimento Humano
+Rio Grande do Sul,GRAMADO DOS LOUREIROS,0.685,0.584,0.832,0.662,Médio Desenvolvimento Humano
+Rio Grande do Sul,GRAMADO XAVIER,0.634,0.473,0.792,0.681,Médio Desenvolvimento Humano
+Rio Grande do Sul,GRAVATAÍ,0.736,0.636,0.862,0.727,Médio Desenvolvimento Humano
+Rio Grande do Sul,GUABIJU,0.758,0.612,0.857,0.831,Médio Desenvolvimento Humano
+Rio Grande do Sul,GUAÍBA,0.73,0.639,0.833,0.732,Médio Desenvolvimento Humano
+Rio Grande do Sul,GUAPORÉ,0.765,0.685,0.837,0.781,Médio Desenvolvimento Humano
+Rio Grande do Sul,GUARANI DAS MISSÕES,0.737,0.665,0.863,0.698,Médio Desenvolvimento Humano
+Rio Grande do Sul,HARMONIA,0.749,0.668,0.841,0.748,Médio Desenvolvimento Humano
+Rio Grande do Sul,HERVEIRAS,0.616,0.441,0.792,0.67,Médio Desenvolvimento Humano
+Rio Grande do Sul,HORIZONTINA,0.783,0.716,0.858,0.782,Médio Desenvolvimento Humano
+Rio Grande do Sul,HULHA NEGRA,0.643,0.512,0.796,0.653,Médio Desenvolvimento Humano
+Rio Grande do Sul,HUMAITÁ,0.738,0.657,0.837,0.732,Médio Desenvolvimento Humano
+Rio Grande do Sul,IBARAMA,0.652,0.511,0.792,0.686,Médio Desenvolvimento Humano
+Rio Grande do Sul,IBIAÇÁ,0.739,0.593,0.888,0.766,Médio Desenvolvimento Humano
+Rio Grande do Sul,IBIRAIARAS,0.724,0.615,0.835,0.739,Médio Desenvolvimento Humano
+Rio Grande do Sul,IBIRAPUITÃ,0.638,0.463,0.828,0.678,Médio Desenvolvimento Humano
+Rio Grande do Sul,IBIRUBÁ,0.765,0.671,0.848,0.786,Médio Desenvolvimento Humano
+Rio Grande do Sul,IGREJINHA,0.721,0.571,0.876,0.749,Médio Desenvolvimento Humano
+Rio Grande do Sul,IJUÍ,0.781,0.707,0.858,0.786,Médio Desenvolvimento Humano
+Rio Grande do Sul,ILÓPOLIS,0.73,0.595,0.866,0.756,Médio Desenvolvimento Humano
+Rio Grande do Sul,IMBÉ,0.764,0.638,0.847,0.825,Médio Desenvolvimento Humano
+Rio Grande do Sul,IMIGRANTE,0.743,0.635,0.844,0.764,Médio Desenvolvimento Humano
+Rio Grande do Sul,INDEPENDÊNCIA,0.693,0.576,0.813,0.711,Médio Desenvolvimento Humano
+Rio Grande do Sul,INHACORÁ,0.673,0.585,0.807,0.647,Médio Desenvolvimento Humano
+Rio Grande do Sul,IPÊ,0.728,0.618,0.831,0.751,Médio Desenvolvimento Humano
+Rio Grande do Sul,IPIRANGA DO SUL,0.791,0.698,0.866,0.818,Médio Desenvolvimento Humano
+Rio Grande do Sul,IRAÍ,0.691,0.59,0.819,0.684,Médio Desenvolvimento Humano
+Rio Grande do Sul,ITAARA,0.76,0.687,0.841,0.761,Médio Desenvolvimento Humano
+Rio Grande do Sul,ITACURUBI,0.657,0.509,0.804,0.692,Médio Desenvolvimento Humano
+Rio Grande do Sul,ITAPUCA,0.664,0.495,0.834,0.709,Médio Desenvolvimento Humano
+Rio Grande do Sul,ITAQUI,0.713,0.626,0.843,0.687,Médio Desenvolvimento Humano
+Rio Grande do Sul,ITATI,0.669,0.524,0.827,0.692,Médio Desenvolvimento Humano
+Rio Grande do Sul,ITATIBA DO SUL,0.681,0.567,0.801,0.696,Médio Desenvolvimento Humano
+Rio Grande do Sul,IVORÁ,0.724,0.602,0.886,0.712,Médio Desenvolvimento Humano
+Rio Grande do Sul,IVOTI,0.784,0.729,0.848,0.78,Médio Desenvolvimento Humano
+Rio Grande do Sul,JABOTICABA,0.658,0.547,0.82,0.636,Médio Desenvolvimento Humano
+Rio Grande do Sul,JACUIZINHO,0.662,0.487,0.817,0.73,Médio Desenvolvimento Humano
+Rio Grande do Sul,JACUTINGA,0.726,0.636,0.855,0.703,Médio Desenvolvimento Humano
+Rio Grande do Sul,JAGUARÃO,0.707,0.608,0.832,0.698,Médio Desenvolvimento Humano
+Rio Grande do Sul,JAGUARI,0.712,0.567,0.866,0.734,Médio Desenvolvimento Humano
+Rio Grande do Sul,JAQUIRANA,0.614,0.475,0.779,0.626,Médio Desenvolvimento Humano
+Rio Grande do Sul,JARI,0.631,0.473,0.836,0.636,Médio Desenvolvimento Humano
+Rio Grande do Sul,JÓIA,0.686,0.572,0.841,0.671,Médio Desenvolvimento Humano
+Rio Grande do Sul,JÚLIO DE CASTILHOS,0.716,0.602,0.833,0.733,Médio Desenvolvimento Humano
+Rio Grande do Sul,LAGOA BONITA DO SUL,0.67,0.539,0.801,0.696,Médio Desenvolvimento Humano
+Rio Grande do Sul,LAGOÃO,0.643,0.505,0.822,0.641,Médio Desenvolvimento Humano
+Rio Grande do Sul,LAGOA DOS TRÊS CANTOS,0.789,0.754,0.852,0.765,Médio Desenvolvimento Humano
+Rio Grande do Sul,LAGOA VERMELHA,0.738,0.62,0.885,0.734,Médio Desenvolvimento Humano
+Rio Grande do Sul,LAJEADO,0.778,0.704,0.84,0.796,Médio Desenvolvimento Humano
+Rio Grande do Sul,LAJEADO DO BUGRE,0.613,0.465,0.822,0.604,Médio Desenvolvimento Humano
+Rio Grande do Sul,LAVRAS DO SUL,0.699,0.577,0.868,0.683,Médio Desenvolvimento Humano
+Rio Grande do Sul,LIBERATO SALZANO,0.685,0.583,0.81,0.68,Médio Desenvolvimento Humano
+Rio Grande do Sul,LINDOLFO COLLOR,0.712,0.601,0.842,0.712,Médio Desenvolvimento Humano
+Rio Grande do Sul,LINHA NOVA,0.749,0.662,0.846,0.751,Médio Desenvolvimento Humano
+Rio Grande do Sul,MACHADINHO,0.692,0.577,0.807,0.711,Médio Desenvolvimento Humano
+Rio Grande do Sul,MAÇAMBARÁ,0.684,0.58,0.832,0.664,Médio Desenvolvimento Humano
+Rio Grande do Sul,MAMPITUBA,0.649,0.517,0.813,0.65,Médio Desenvolvimento Humano
+Rio Grande do Sul,MANOEL VIANA,0.655,0.534,0.766,0.686,Médio Desenvolvimento Humano
+Rio Grande do Sul,MAQUINÉ,0.682,0.519,0.88,0.695,Médio Desenvolvimento Humano
+Rio Grande do Sul,MARATÁ,0.697,0.54,0.862,0.729,Médio Desenvolvimento Humano
+Rio Grande do Sul,MARAU,0.774,0.699,0.857,0.773,Médio Desenvolvimento Humano
+Rio Grande do Sul,MARCELINO RAMOS,0.724,0.618,0.834,0.735,Médio Desenvolvimento Humano
+Rio Grande do Sul,MARIANA PIMENTEL,0.701,0.568,0.866,0.701,Médio Desenvolvimento Humano
+Rio Grande do Sul,MARIANO MORO,0.73,0.604,0.843,0.763,Médio Desenvolvimento Humano
+Rio Grande do Sul,MARQUES DE SOUZA,0.687,0.515,0.849,0.743,Médio Desenvolvimento Humano
+Rio Grande do Sul,MATA,0.656,0.529,0.807,0.66,Médio Desenvolvimento Humano
+Rio Grande do Sul,MATO CASTELHANO,0.727,0.608,0.839,0.752,Médio Desenvolvimento Humano
+Rio Grande do Sul,MATO LEITÃO,0.746,0.676,0.853,0.721,Médio Desenvolvimento Humano
+Rio Grande do Sul,MATO QUEIMADO,0.717,0.603,0.87,0.702,Médio Desenvolvimento Humano
+Rio Grande do Sul,MAXIMILIANO DE ALMEIDA,0.699,0.591,0.825,0.699,Médio Desenvolvimento Humano
+Rio Grande do Sul,MINAS DO LEÃO,0.681,0.514,0.826,0.743,Médio Desenvolvimento Humano
+Rio Grande do Sul,MIRAGUAÍ,0.725,0.613,0.837,0.744,Médio Desenvolvimento Humano
+Rio Grande do Sul,MONTAURI,0.764,0.662,0.852,0.79,Médio Desenvolvimento Humano
+Rio Grande do Sul,MONTE ALEGRE DOS CAMPOS,0.65,0.501,0.822,0.667,Médio Desenvolvimento Humano
+Rio Grande do Sul,MONTE BELO DO SUL,0.752,0.663,0.852,0.752,Médio Desenvolvimento Humano
+Rio Grande do Sul,MONTENEGRO,0.755,0.654,0.866,0.761,Médio Desenvolvimento Humano
+Rio Grande do Sul,MORMAÇO,0.714,0.576,0.86,0.735,Médio Desenvolvimento Humano
+Rio Grande do Sul,MORRINHOS DO SUL,0.711,0.593,0.842,0.72,Médio Desenvolvimento Humano
+Rio Grande do Sul,MORRO REDONDO,0.702,0.557,0.864,0.719,Médio Desenvolvimento Humano
+Rio Grande do Sul,MORRO REUTER,0.743,0.653,0.858,0.733,Médio Desenvolvimento Humano
+Rio Grande do Sul,MOSTARDAS,0.664,0.493,0.849,0.701,Médio Desenvolvimento Humano
+Rio Grande do Sul,MUÇUM,0.746,0.654,0.84,0.757,Médio Desenvolvimento Humano
+Rio Grande do Sul,MUITOS CAPÕES,0.702,0.558,0.873,0.711,Médio Desenvolvimento Humano
+Rio Grande do Sul,MULITERNO,0.689,0.547,0.808,0.74,Médio Desenvolvimento Humano
+Rio Grande do Sul,NÃO-ME-TOQUE,0.765,0.673,0.847,0.784,Médio Desenvolvimento Humano
+Rio Grande do Sul,NICOLAU VERGUEIRO,0.753,0.66,0.839,0.772,Médio Desenvolvimento Humano
+Rio Grande do Sul,NONOAI,0.702,0.591,0.833,0.703,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA ALVORADA,0.74,0.634,0.838,0.763,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA ARAÇÁ,0.785,0.722,0.843,0.796,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA BASSANO,0.747,0.632,0.849,0.778,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA BOA VISTA,0.768,0.708,0.836,0.764,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA BRÉSCIA,0.778,0.666,0.847,0.836,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA CANDELÁRIA,0.759,0.643,0.856,0.794,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA ESPERANÇA DO SUL,0.735,0.647,0.848,0.723,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA HARTZ,0.689,0.563,0.836,0.694,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA PÁDUA,0.761,0.678,0.852,0.762,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA PALMA,0.744,0.643,0.841,0.762,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA PETRÓPOLIS,0.78,0.688,0.89,0.775,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA PRATA,0.766,0.686,0.839,0.782,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA RAMADA,0.742,0.642,0.847,0.752,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA ROMA DO SUL,0.741,0.602,0.851,0.794,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVA SANTA RITA,0.718,0.606,0.853,0.716,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVO CABRAIS,0.688,0.548,0.852,0.697,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVO HAMBURGO,0.747,0.629,0.852,0.778,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVO MACHADO,0.663,0.543,0.796,0.674,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVO TIRADENTES,0.676,0.566,0.805,0.679,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVO XINGU,0.767,0.708,0.85,0.749,Médio Desenvolvimento Humano
+Rio Grande do Sul,NOVO BARREIRO,0.706,0.594,0.808,0.734,Médio Desenvolvimento Humano
+Rio Grande do Sul,OSÓRIO,0.751,0.646,0.853,0.769,Médio Desenvolvimento Humano
+Rio Grande do Sul,PAIM FILHO,0.706,0.558,0.87,0.725,Médio Desenvolvimento Humano
+Rio Grande do Sul,PALMARES DO SUL,0.715,0.592,0.852,0.725,Médio Desenvolvimento Humano
+Rio Grande do Sul,PALMEIRA DAS MISSÕES,0.737,0.667,0.831,0.722,Médio Desenvolvimento Humano
+Rio Grande do Sul,PALMITINHO,0.72,0.632,0.836,0.707,Médio Desenvolvimento Humano
+Rio Grande do Sul,PANAMBI,0.761,0.691,0.848,0.752,Médio Desenvolvimento Humano
+Rio Grande do Sul,PANTANO GRANDE,0.661,0.524,0.816,0.676,Médio Desenvolvimento Humano
+Rio Grande do Sul,PARAÍ,0.773,0.679,0.866,0.787,Médio Desenvolvimento Humano
+Rio Grande do Sul,PARAÍSO DO SUL,0.676,0.537,0.831,0.692,Médio Desenvolvimento Humano
+Rio Grande do Sul,PARECI NOVO,0.749,0.668,0.852,0.738,Médio Desenvolvimento Humano
+Rio Grande do Sul,PAROBÉ,0.704,0.562,0.886,0.7,Médio Desenvolvimento Humano
+Rio Grande do Sul,PASSA SETE,0.622,0.482,0.782,0.639,Médio Desenvolvimento Humano
+Rio Grande do Sul,PASSO DO SOBRADO,0.698,0.551,0.851,0.726,Médio Desenvolvimento Humano
+Rio Grande do Sul,PASSO FUNDO,0.776,0.699,0.849,0.787,Médio Desenvolvimento Humano
+Rio Grande do Sul,PAULO BENTO,0.71,0.571,0.858,0.73,Médio Desenvolvimento Humano
+Rio Grande do Sul,PAVERAMA,0.683,0.541,0.84,0.701,Médio Desenvolvimento Humano
+Rio Grande do Sul,PEDRAS ALTAS,0.64,0.493,0.82,0.647,Médio Desenvolvimento Humano
+Rio Grande do Sul,PEDRO OSÓRIO,0.678,0.551,0.829,0.683,Médio Desenvolvimento Humano
+Rio Grande do Sul,PEJUÇARA,0.741,0.648,0.867,0.724,Médio Desenvolvimento Humano
+Rio Grande do Sul,PELOTAS,0.739,0.632,0.844,0.758,Médio Desenvolvimento Humano
+Rio Grande do Sul,PICADA CAFÉ,0.758,0.701,0.842,0.738,Médio Desenvolvimento Humano
+Rio Grande do Sul,PINHAL,0.72,0.624,0.852,0.701,Médio Desenvolvimento Humano
+Rio Grande do Sul,PINHAL DA SERRA,0.65,0.513,0.835,0.641,Médio Desenvolvimento Humano
+Rio Grande do Sul,PINHAL GRANDE,0.678,0.577,0.804,0.672,Médio Desenvolvimento Humano
+Rio Grande do Sul,PINHEIRINHO DO VALE,0.71,0.607,0.828,0.713,Médio Desenvolvimento Humano
+Rio Grande do Sul,PINHEIRO MACHADO,0.661,0.499,0.846,0.685,Médio Desenvolvimento Humano
+Rio Grande do Sul,PIRAPÓ,0.669,0.553,0.824,0.656,Médio Desenvolvimento Humano
+Rio Grande do Sul,PIRATINI,0.658,0.517,0.821,0.672,Médio Desenvolvimento Humano
+Rio Grande do Sul,PLANALTO,0.687,0.597,0.807,0.674,Médio Desenvolvimento Humano
+Rio Grande do Sul,POÇO DAS ANTAS,0.744,0.634,0.877,0.742,Médio Desenvolvimento Humano
+Rio Grande do Sul,PONTÃO,0.725,0.623,0.864,0.708,Médio Desenvolvimento Humano
+Rio Grande do Sul,PONTE PRETA,0.725,0.6,0.874,0.727,Médio Desenvolvimento Humano
+Rio Grande do Sul,PORTÃO,0.713,0.584,0.856,0.725,Médio Desenvolvimento Humano
+Rio Grande do Sul,PORTO ALEGRE,0.805,0.702,0.857,0.867,Alto Desenvolvimento Humano
+Rio Grande do Sul,PORTO LUCENA,0.693,0.575,0.827,0.7,Médio Desenvolvimento Humano
+Rio Grande do Sul,PORTO MAUÁ,0.698,0.608,0.831,0.672,Médio Desenvolvimento Humano
+Rio Grande do Sul,PORTO VERA CRUZ,0.69,0.6,0.827,0.661,Médio Desenvolvimento Humano
+Rio Grande do Sul,PORTO XAVIER,0.723,0.628,0.876,0.687,Médio Desenvolvimento Humano
+Rio Grande do Sul,POUSO NOVO,0.715,0.566,0.845,0.765,Médio Desenvolvimento Humano
+Rio Grande do Sul,PRESIDENTE LUCENA,0.757,0.674,0.885,0.727,Médio Desenvolvimento Humano
+Rio Grande do Sul,PROGRESSO,0.683,0.525,0.861,0.705,Médio Desenvolvimento Humano
+Rio Grande do Sul,PROTÁSIO ALVES,0.733,0.609,0.839,0.771,Médio Desenvolvimento Humano
+Rio Grande do Sul,PUTINGA,0.715,0.563,0.873,0.745,Médio Desenvolvimento Humano
+Rio Grande do Sul,QUARAÍ,0.704,0.609,0.852,0.673,Médio Desenvolvimento Humano
+Rio Grande do Sul,QUATRO IRMÃOS,0.689,0.565,0.833,0.695,Médio Desenvolvimento Humano
+Rio Grande do Sul,QUEVEDOS,0.665,0.534,0.824,0.667,Médio Desenvolvimento Humano
+Rio Grande do Sul,QUINZE DE NOVEMBRO,0.756,0.655,0.841,0.783,Médio Desenvolvimento Humano
+Rio Grande do Sul,REDENTORA,0.631,0.523,0.792,0.606,Médio Desenvolvimento Humano
+Rio Grande do Sul,RELVADO,0.731,0.588,0.868,0.765,Médio Desenvolvimento Humano
+Rio Grande do Sul,RESTINGA SECA,0.683,0.542,0.828,0.709,Médio Desenvolvimento Humano
+Rio Grande do Sul,RIO DOS ÍNDIOS,0.656,0.545,0.804,0.645,Médio Desenvolvimento Humano
+Rio Grande do Sul,RIO GRANDE,0.744,0.637,0.861,0.752,Médio Desenvolvimento Humano
+Rio Grande do Sul,RIO PARDO,0.693,0.56,0.846,0.702,Médio Desenvolvimento Humano
+Rio Grande do Sul,RIOZINHO,0.661,0.472,0.885,0.69,Médio Desenvolvimento Humano
+Rio Grande do Sul,ROCA SALES,0.729,0.602,0.853,0.753,Médio Desenvolvimento Humano
+Rio Grande do Sul,RODEIO BONITO,0.732,0.636,0.842,0.733,Médio Desenvolvimento Humano
+Rio Grande do Sul,ROLADOR,0.689,0.579,0.834,0.676,Médio Desenvolvimento Humano
+Rio Grande do Sul,ROLANTE,0.688,0.553,0.83,0.708,Médio Desenvolvimento Humano
+Rio Grande do Sul,RONDA ALTA,0.724,0.6,0.867,0.729,Médio Desenvolvimento Humano
+Rio Grande do Sul,RONDINHA,0.764,0.678,0.842,0.78,Médio Desenvolvimento Humano
+Rio Grande do Sul,ROQUE GONZALES,0.688,0.563,0.843,0.687,Médio Desenvolvimento Humano
+Rio Grande do Sul,ROSÁRIO DO SUL,0.699,0.576,0.841,0.705,Médio Desenvolvimento Humano
+Rio Grande do Sul,SAGRADA FAMÍLIA,0.678,0.596,0.782,0.669,Médio Desenvolvimento Humano
+Rio Grande do Sul,SALDANHA MARINHO,0.762,0.706,0.841,0.745,Médio Desenvolvimento Humano
+Rio Grande do Sul,SALTO DO JACUÍ,0.687,0.558,0.837,0.693,Médio Desenvolvimento Humano
+Rio Grande do Sul,SALVADOR DAS MISSÕES,0.753,0.706,0.851,0.71,Médio Desenvolvimento Humano
+Rio Grande do Sul,SALVADOR DO SUL,0.74,0.641,0.843,0.75,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANANDUVA,0.747,0.647,0.843,0.764,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTA BÁRBARA DO SUL,0.725,0.634,0.841,0.716,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTA CECÍLIA DO SUL,0.725,0.581,0.839,0.781,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTA CLARA DO SUL,0.74,0.644,0.843,0.747,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTA CRUZ DO SUL,0.773,0.693,0.852,0.782,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTA MARIA,0.784,0.715,0.848,0.795,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTA MARIA DO HERVAL,0.676,0.51,0.846,0.716,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTA MARGARIDA DO SUL,0.663,0.484,0.87,0.691,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTANA DA BOA VISTA,0.633,0.503,0.802,0.63,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANT'ANA DO LIVRAMENTO,0.727,0.636,0.846,0.715,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTA ROSA,0.769,0.693,0.871,0.752,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTA TEREZA,0.746,0.637,0.853,0.765,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTA VITÓRIA DO PALMAR,0.712,0.591,0.861,0.709,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTIAGO,0.766,0.682,0.882,0.746,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTO ÂNGELO,0.772,0.696,0.863,0.765,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTO ANTÔNIO DO PALMA,0.764,0.665,0.853,0.787,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTO ANTÔNIO DA PATRULHA,0.717,0.594,0.866,0.718,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTO ANTÔNIO DAS MISSÕES,0.686,0.576,0.835,0.672,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTO ANTÔNIO DO PLANALTO,0.759,0.705,0.885,0.701,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTO AUGUSTO,0.739,0.637,0.84,0.753,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTO CRISTO,0.738,0.656,0.82,0.746,Médio Desenvolvimento Humano
+Rio Grande do Sul,SANTO EXPEDITO DO SUL,0.732,0.677,0.853,0.679,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO BORJA,0.736,0.643,0.86,0.72,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO DOMINGOS DO SUL,0.763,0.68,0.839,0.78,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO FRANCISCO DE ASSIS,0.675,0.552,0.818,0.681,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO FRANCISCO DE PAULA,0.685,0.534,0.86,0.701,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO GABRIEL,0.699,0.585,0.822,0.711,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JERÔNIMO,0.696,0.56,0.822,0.734,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JOÃO DA URTIGA,0.694,0.575,0.828,0.702,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JOÃO DO POLÊSINE,0.748,0.661,0.847,0.748,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JORGE,0.732,0.617,0.846,0.75,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JOSÉ DAS MISSÕES,0.651,0.542,0.782,0.652,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JOSÉ DO HERVAL,0.717,0.622,0.847,0.701,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JOSÉ DO HORTÊNCIO,0.707,0.597,0.824,0.717,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JOSÉ DO INHACORÁ,0.747,0.702,0.822,0.723,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JOSÉ DO NORTE,0.623,0.461,0.792,0.663,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JOSÉ DO OURO,0.755,0.669,0.846,0.759,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JOSÉ DO SUL,0.725,0.59,0.836,0.774,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO JOSÉ DOS AUSENTES,0.663,0.541,0.801,0.674,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO LEOPOLDO,0.739,0.612,0.861,0.766,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO LOURENÇO DO SUL,0.687,0.528,0.849,0.722,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO LUIZ GONZAGA,0.741,0.664,0.855,0.718,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO MARCOS,0.768,0.683,0.855,0.775,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO MARTINHO,0.726,0.628,0.83,0.734,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO MARTINHO DA SERRA,0.652,0.496,0.848,0.659,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO MIGUEL DAS MISSÕES,0.667,0.537,0.821,0.674,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO NICOLAU,0.645,0.523,0.778,0.658,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO PAULO DAS MISSÕES,0.692,0.584,0.825,0.688,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO PEDRO DA SERRA,0.739,0.634,0.851,0.748,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO PEDRO DAS MISSÕES,0.664,0.566,0.804,0.644,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO PEDRO DO BUTIÁ,0.763,0.694,0.843,0.76,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO PEDRO DO SUL,0.709,0.619,0.824,0.698,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO SEBASTIÃO DO CAÍ,0.739,0.646,0.852,0.734,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO SEPÉ,0.708,0.576,0.871,0.708,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO VALENTIM,0.72,0.612,0.82,0.745,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO VALENTIM DO SUL,0.764,0.677,0.848,0.776,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO VALÉRIO DO SUL,0.642,0.48,0.816,0.674,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO VENDELINO,0.754,0.677,0.852,0.743,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÃO VICENTE DO SUL,0.685,0.553,0.831,0.698,Médio Desenvolvimento Humano
+Rio Grande do Sul,SAPIRANGA,0.711,0.598,0.832,0.722,Médio Desenvolvimento Humano
+Rio Grande do Sul,SAPUCAIA DO SUL,0.726,0.624,0.844,0.726,Médio Desenvolvimento Humano
+Rio Grande do Sul,SARANDI,0.777,0.705,0.858,0.776,Médio Desenvolvimento Humano
+Rio Grande do Sul,SEBERI,0.723,0.62,0.865,0.706,Médio Desenvolvimento Humano
+Rio Grande do Sul,SEDE NOVA,0.712,0.543,0.886,0.751,Médio Desenvolvimento Humano
+Rio Grande do Sul,SEGREDO,0.659,0.525,0.811,0.673,Médio Desenvolvimento Humano
+Rio Grande do Sul,SELBACH,0.777,0.71,0.841,0.785,Médio Desenvolvimento Humano
+Rio Grande do Sul,SENADOR SALGADO FILHO,0.693,0.581,0.817,0.701,Médio Desenvolvimento Humano
+Rio Grande do Sul,SENTINELA DO SUL,0.671,0.545,0.826,0.671,Médio Desenvolvimento Humano
+Rio Grande do Sul,SERAFINA CORRÊA,0.76,0.69,0.843,0.755,Médio Desenvolvimento Humano
+Rio Grande do Sul,SÉRIO,0.652,0.471,0.847,0.695,Médio Desenvolvimento Humano
+Rio Grande do Sul,SERTÃO,0.751,0.678,0.837,0.746,Médio Desenvolvimento Humano
+Rio Grande do Sul,SERTÃO SANTANA,0.689,0.534,0.832,0.737,Médio Desenvolvimento Humano
+Rio Grande do Sul,SETE DE SETEMBRO,0.683,0.577,0.81,0.682,Médio Desenvolvimento Humano
+Rio Grande do Sul,SEVERIANO DE ALMEIDA,0.752,0.67,0.861,0.738,Médio Desenvolvimento Humano
+Rio Grande do Sul,SILVEIRA MARTINS,0.742,0.644,0.852,0.744,Médio Desenvolvimento Humano
+Rio Grande do Sul,SINIMBU,0.631,0.456,0.792,0.697,Médio Desenvolvimento Humano
+Rio Grande do Sul,SOBRADINHO,0.743,0.647,0.861,0.735,Médio Desenvolvimento Humano
+Rio Grande do Sul,SOLEDADE,0.731,0.625,0.861,0.727,Médio Desenvolvimento Humano
+Rio Grande do Sul,TABAÍ,0.701,0.595,0.834,0.694,Médio Desenvolvimento Humano
+Rio Grande do Sul,TAPEJARA,0.76,0.688,0.837,0.763,Médio Desenvolvimento Humano
+Rio Grande do Sul,TAPERA,0.747,0.672,0.835,0.743,Médio Desenvolvimento Humano
+Rio Grande do Sul,TAPES,0.695,0.556,0.862,0.699,Médio Desenvolvimento Humano
+Rio Grande do Sul,TAQUARA,0.727,0.579,0.88,0.754,Médio Desenvolvimento Humano
+Rio Grande do Sul,TAQUARI,0.733,0.629,0.849,0.737,Médio Desenvolvimento Humano
+Rio Grande do Sul,TAQUARUÇU DO SUL,0.739,0.633,0.83,0.768,Médio Desenvolvimento Humano
+Rio Grande do Sul,TAVARES,0.656,0.492,0.828,0.692,Médio Desenvolvimento Humano
+Rio Grande do Sul,TENENTE PORTELA,0.708,0.603,0.83,0.709,Médio Desenvolvimento Humano
+Rio Grande do Sul,TERRA DE AREIA,0.689,0.565,0.829,0.699,Médio Desenvolvimento Humano
+Rio Grande do Sul,TEUTÔNIA,0.747,0.65,0.855,0.751,Médio Desenvolvimento Humano
+Rio Grande do Sul,TIO HUGO,0.742,0.682,0.845,0.709,Médio Desenvolvimento Humano
+Rio Grande do Sul,TIRADENTES DO SUL,0.689,0.569,0.815,0.705,Médio Desenvolvimento Humano
+Rio Grande do Sul,TOROPI,0.683,0.569,0.822,0.68,Médio Desenvolvimento Humano
+Rio Grande do Sul,TORRES,0.762,0.685,0.862,0.75,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRAMANDAÍ,0.719,0.606,0.842,0.727,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRAVESSEIRO,0.701,0.559,0.839,0.735,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRÊS ARROIOS,0.791,0.689,0.851,0.843,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRÊS CACHOEIRAS,0.718,0.606,0.847,0.722,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRÊS COROAS,0.71,0.584,0.829,0.74,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRÊS DE MAIO,0.759,0.694,0.834,0.756,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRÊS FORQUILHAS,0.662,0.539,0.813,0.661,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRÊS PALMEIRAS,0.703,0.56,0.832,0.747,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRÊS PASSOS,0.768,0.71,0.858,0.745,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRINDADE DO SUL,0.687,0.61,0.787,0.675,Médio Desenvolvimento Humano
+Rio Grande do Sul,TRIUNFO,0.733,0.629,0.873,0.717,Médio Desenvolvimento Humano
+Rio Grande do Sul,TUCUNDUVA,0.747,0.682,0.816,0.748,Médio Desenvolvimento Humano
+Rio Grande do Sul,TUNAS,0.657,0.541,0.794,0.659,Médio Desenvolvimento Humano
+Rio Grande do Sul,TUPANCI DO SUL,0.694,0.595,0.818,0.688,Médio Desenvolvimento Humano
+Rio Grande do Sul,TUPANCIRETÃ,0.709,0.596,0.828,0.721,Médio Desenvolvimento Humano
+Rio Grande do Sul,TUPANDI,0.718,0.597,0.836,0.742,Médio Desenvolvimento Humano
+Rio Grande do Sul,TUPARENDI,0.728,0.632,0.832,0.734,Médio Desenvolvimento Humano
+Rio Grande do Sul,TURUÇU,0.629,0.446,0.814,0.685,Médio Desenvolvimento Humano
+Rio Grande do Sul,UBIRETAMA,0.7,0.613,0.809,0.691,Médio Desenvolvimento Humano
+Rio Grande do Sul,UNIÃO DA SERRA,0.733,0.587,0.852,0.786,Médio Desenvolvimento Humano
+Rio Grande do Sul,UNISTALDA,0.649,0.542,0.804,0.626,Médio Desenvolvimento Humano
+Rio Grande do Sul,URUGUAIANA,0.744,0.661,0.863,0.722,Médio Desenvolvimento Humano
+Rio Grande do Sul,VACARIA,0.721,0.605,0.838,0.74,Médio Desenvolvimento Humano
+Rio Grande do Sul,VALE VERDE,0.646,0.497,0.816,0.666,Médio Desenvolvimento Humano
+Rio Grande do Sul,VALE DO SOL,0.624,0.439,0.813,0.681,Médio Desenvolvimento Humano
+Rio Grande do Sul,VALE REAL,0.737,0.636,0.85,0.739,Médio Desenvolvimento Humano
+Rio Grande do Sul,VANINI,0.757,0.704,0.836,0.736,Médio Desenvolvimento Humano
+Rio Grande do Sul,VENÂNCIO AIRES,0.712,0.6,0.818,0.736,Médio Desenvolvimento Humano
+Rio Grande do Sul,VERA CRUZ,0.737,0.643,0.842,0.738,Médio Desenvolvimento Humano
+Rio Grande do Sul,VERANÓPOLIS,0.773,0.692,0.838,0.797,Médio Desenvolvimento Humano
+Rio Grande do Sul,VESPASIANO CORREA,0.723,0.584,0.855,0.758,Médio Desenvolvimento Humano
+Rio Grande do Sul,VIADUTOS,0.702,0.561,0.864,0.715,Médio Desenvolvimento Humano
+Rio Grande do Sul,VIAMÃO,0.717,0.591,0.866,0.72,Médio Desenvolvimento Humano
+Rio Grande do Sul,VICENTE DUTRA,0.638,0.489,0.809,0.656,Médio Desenvolvimento Humano
+Rio Grande do Sul,VICTOR GRAEFF,0.777,0.722,0.84,0.774,Médio Desenvolvimento Humano
+Rio Grande do Sul,VILA FLORES,0.742,0.65,0.867,0.725,Médio Desenvolvimento Humano
+Rio Grande do Sul,VILA LÂNGARO,0.705,0.551,0.839,0.759,Médio Desenvolvimento Humano
+Rio Grande do Sul,VILA MARIA,0.761,0.664,0.839,0.791,Médio Desenvolvimento Humano
+Rio Grande do Sul,VILA NOVA DO SUL,0.662,0.544,0.827,0.645,Médio Desenvolvimento Humano
+Rio Grande do Sul,VISTA ALEGRE,0.739,0.631,0.842,0.76,Médio Desenvolvimento Humano
+Rio Grande do Sul,VISTA ALEGRE DO PRATA,0.78,0.692,0.847,0.809,Médio Desenvolvimento Humano
+Rio Grande do Sul,VISTA GAÚCHA,0.757,0.669,0.839,0.774,Médio Desenvolvimento Humano
+Rio Grande do Sul,VITÓRIA DAS MISSÕES,0.655,0.526,0.809,0.659,Médio Desenvolvimento Humano
+Rio Grande do Sul,WESTFALIA,0.752,0.63,0.849,0.796,Médio Desenvolvimento Humano
+Rio Grande do Sul,XANGRI-LÁ,0.735,0.63,0.852,0.74,Médio Desenvolvimento Humano
